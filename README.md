@@ -3,7 +3,7 @@ Compute the clique intersection graph and clique commonality graph on PPI and Ge
 
 example graph: kidney.el
 
-example maximal clqiues: kidney.clique
+example maximal cliqiues: kidney.clique
 
 example clique profile: kidney.profile
 
